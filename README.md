@@ -6,7 +6,7 @@ An automated Python script that scrapes a product's price from Amazon, logs it o
 
 ## Overview
 
-As a passionate photographer, I wanted to buy a specific camera to take my hobby to the next level. However, I wanted to make sure I got the best deal possible. Instead of manually checking the Amazon page every day, I decided to build this tool to do the work for me.
+As a passionate photographer, I wanted to buy a specific camera to take my hobby to the next level. However, I wanted to make sure I got the best deal possible. Instead of manually checking the Amazon page every day, I decided to build this code tool  using Python to do the work for me.
 
 This project is a simple yet powerful web scraper that automates the process of price tracking. It's a practical demonstration of web scraping, data logging, and task automation to solve a real-world problem.
 
@@ -26,12 +26,7 @@ This project is a simple yet powerful web scraper that automates the process of 
     - `pandas`: For handling and displaying the data from the CSV file.
     - `smtplib`: For sending the email notifications via a Gmail account.
 
-## Getting Started
-
-Follow these instructions to get a copy of the project up and running on your local machine.
 
 ### Prerequisites
 
-Make sure you have Python 3 installed on your system.
-```bash
 python --version
